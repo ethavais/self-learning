@@ -1,2 +1,2 @@
-# fintech-study
+# self-learning
 My learning process :3
